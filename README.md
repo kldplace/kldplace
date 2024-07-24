@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Khalid Sharahili, I'm fascinated with data, and how it represent itself in the world
-- 👀 I’m interested in data engineering
+- 👋 Hi, I’m Khalid Sharahili, I'm fascinated with data, and how it represent itself in the world.
+- ⚡ I’m passionate about data engineering and cloud computing.
   
 <!--
 - 🌱 I’m currently learning 
